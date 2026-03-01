@@ -102,7 +102,7 @@ Through Exploratory Data Analysis (EDA), statistical analysis, visualization, an
 Install required packages:
 
 
-pip install requests beautifulsoup4 pandas yfinance selenium webdriver-manager
+`pip install requests beautifulsoup4 pandas yfinance selenium webdriver-manager`
 
 
 Then run the notebook from top to bottom.
