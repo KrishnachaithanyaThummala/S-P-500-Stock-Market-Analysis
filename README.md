@@ -115,56 +115,56 @@ Then run the notebook from top to bottom.
 
 ✔ Data Quality
 
-No missing values
+- No missing values
 
-No duplicate records
+- No duplicate records
 
-503 unique companies
+- 503 unique companies
 
-11 sectors represented
+- 11 sectors represented
 
 ✔ Statistical Insights
 
-Significant variability in stock prices across companies
+- Significant variability in stock prices across companies
 
-Trading volume shows high dispersion
+- Trading volume shows high dispersion
 
-Price distributions are right-skewed
+- Price distributions are right-skewed
 
 ✔ Feature Engineering
 
-Extracted Year, Month, Day from Date
+- Extracted Year, Month, Day from Date
 
-Created Company Age feature
+- Created Company Age feature
 
-Calculated Daily Returns per ticker
+- Calculated Daily Returns per ticker
 
 ✔ Outlier Detection
 
-High-priced stocks identified using IQR method
+- High-priced stocks identified using IQR method
 
-Outliers confirmed as valid market behavior
+- Outliers confirmed as valid market behavior
 
-📈 Key Insights
+ Key Insights
 
-Stock prices vary significantly across sectors.
+- Stock prices vary significantly across sectors.
 
-Market trading volume occasionally shows extreme spikes.
+- Market trading volume occasionally shows extreme spikes.
 
-Individual stock volatility is higher than overall market stability.
+- Individual stock volatility is higher than overall market stability.
 
-Sector distribution shows Industrials as highly represented.
+- Sector distribution shows Industrials as highly represented.
 
-Daily returns behave consistently with expected financial patterns.
+- Daily returns behave consistently with expected financial patterns.
 
-🔮 Future Improvements
+Future Improvements
 
-Time series forecasting (ARIMA, LSTM)
+- Time series forecasting (ARIMA, LSTM)
 
-Volatility clustering analysis
+- Volatility clustering analysis
 
 Portfolio optimization
 
-Risk-adjusted performance metrics (Sharpe Ratio, CAPM)
+- Risk-adjusted performance metrics (Sharpe Ratio, CAPM)
 
-Sector-based investment comparison
+- Sector-based investment comparison
